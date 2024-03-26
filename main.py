@@ -7,3 +7,4 @@ else:
     print("winner")
 print("git flow is fun and interest")
 print("Hexcodeteam")
+print("STDR Team")
